@@ -1,2 +1,5 @@
 # fun_test
-first test!
+    function hello()
+    {
+        echo ("hello world!!"");
+    }
